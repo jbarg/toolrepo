@@ -1,0 +1,3 @@
+[submodule "postExploit/reGeorg"]
+	path = postExploit/reGeorg
+	url = git://github.com/sensepost/reGeorg
