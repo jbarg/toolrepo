@@ -1,3 +1,6 @@
 [submodule "postExploit/reGeorg"]
 	path = postExploit/reGeorg
 	url = git://github.com/sensepost/reGeorg
+[submodule "recon/btproxy"]
+	path = recon/btproxy
+	url = https://github.com/conorpp/btproxy
